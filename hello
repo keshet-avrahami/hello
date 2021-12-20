@@ -1,0 +1,6 @@
+def hello(first_name,last_name):
+
+    print("Hello "+first_name+" "+last_name)
+    print("Have a nice day!")
+
+hello("Keshet","Avrahami")
